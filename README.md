@@ -1,11 +1,11 @@
 # Examen-4
 #### Enunciado  #####
-<br>
-![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG)
 
-![index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html "index")
+![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG);
 
-![style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css "style")
+[index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html "index")
+
+[style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css "style")
 
 - Primero de todo lo que he hecho a sido crear el archivo .css y utilizar el comando (link href="" rel"" type"") en el archivo html para llamar al css. <br>
 - seguido de eso lo primero que hice fue definir un titulo que descriva la tabla con el comando **(caption)** <br>
