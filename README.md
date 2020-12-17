@@ -1,5 +1,5 @@
 # Examen-4
-#### Enunciado #####
+### Enunciado ####
 
 ![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG)
 
@@ -16,4 +16,7 @@
 3. Utilize el comando **(colgroup col y colspan)** para definir las celdas que ocupan 2 o mas huecos de la tabla <br>
 4. Y despues ya empece a hacer todas las lineas con los comandos **(tbody, tr, th, td)** <br>
 5. El **(tbody)** es para definir el cuerpo de la tabla <br>
- 
+
+* [Index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html"index")
+
+* [style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css"index")
