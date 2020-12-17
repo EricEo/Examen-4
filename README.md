@@ -1,5 +1,5 @@
 # Examen-4
-#### * Enunciado #####
+#### Enunciado #####
 
 ![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG)
 
@@ -8,6 +8,8 @@
 * [Style](https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/minimal-table.css "style")
 
 * [Planetas](https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/planets-data.txt "Planetas")
+
+### **Solución** ###
 
 1. Primero de todo lo que he hecho a sido crear el archivo .css y utilizar el comando (link href="" rel"" type"") en el archivo html  para llamar al css. <br>
 2. seguido de eso lo primero que hice fue definir un titulo que descriva la tabla con el comando **(caption)** <br>
