@@ -3,7 +3,7 @@
 
 ![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG)
 
-* [Index](https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/blank-template.html"index")
+* [Index](https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/blank-template.html "index")
 
 * [Style](https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/minimal-table.css "style")
 
@@ -17,6 +17,6 @@
 4. Y despues ya empece a hacer todas las lineas con los comandos **(tbody, tr, th, td)** <br>
 5. El **(tbody)** es para definir el cuerpo de la tabla <br>
 
-* [Index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html"index")
+* [Index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html "index")
 
-* [style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css"index")
+* [style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css "index")
