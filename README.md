@@ -1,11 +1,9 @@
 # Examen-4
 #### Enunciado  #####
-
+<br>
 ![Tabla](https://user-images.githubusercontent.com/73166252/102470201-f7df4580-4053-11eb-8642-44d8a4c711f7.PNG)
 <br>
-<br>
 - [index](https://github.com/EricEo/Examen-4/blob/main/Examen%204/index.html "index")
-<br>
 <br>
 - [style](https://github.com/EricEo/Examen-4/blob/main/Examen%204/style.css "style")
 <br>
