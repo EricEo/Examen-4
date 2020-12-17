@@ -1,7 +1,7 @@
 # Examen-4
 ## Examen HTML
 -Enunciado 
-(/Imagenes/Tabla.PNG)
+ (/Imagenes/Tabla.PNG)
 - Primero de todo lo que he hecho a sido crear el archivo .css y utilizar el comando (link href="" rel"" type"") en el archivo html para llamar al css. <br>
 - seguido de eso lo primero que hice fue definir un titulo que descriva la tabla con el comando **(caption)** <br>
 - Utilize el comando **(colgroup col y colspan)** para definir las celdas que ocupan 2 o mas huecos de la tabla <br>
